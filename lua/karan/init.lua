@@ -1,0 +1,5 @@
+require("karan.remap")
+require("karan.packer")
+require("karan.set")
+require("karan.diagnostics")
+require("karan.filetypes")
